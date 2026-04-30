@@ -1,4 +1,4 @@
-//Pedro Henrique Rocha de Souza Matricula 908683
+//Pedro Henrique Rocha de Souza Matricula 908683//
 const data = {
     produtos: [
         { id: 1, nome: "PlayStation 5", preco: 3999.90, categoria: "Games", imagem: "https://via.placeholder.com/150", descricao: "Console de última geração com SSD ultra rápido.", emEstoque: true },
